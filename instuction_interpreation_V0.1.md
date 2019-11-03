@@ -6,7 +6,7 @@ All the instruction links and one of the footnotes come from this [ARM Cortex-M0
 | --- | --- | --- |
 
 
-|value:|||| label of function p|
+| value: | | | | label of function p |
         .word   6
 negate:
         sub     sp, sp, #8
